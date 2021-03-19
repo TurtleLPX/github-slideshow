@@ -2,5 +2,5 @@
 layout: me
 title: "Welcome to our second slide!"
 ---
-somthing new.
+123456
 you are so cool!
