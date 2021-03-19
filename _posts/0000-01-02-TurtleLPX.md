@@ -2,5 +2,5 @@
 layout: me
 title: "Welcome to our second slide!"
 ---
-heyyyy
+somthing new.
 you are so cool!
